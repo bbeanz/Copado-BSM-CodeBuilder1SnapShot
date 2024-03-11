@@ -45,7 +45,6 @@
 **/installedPackages/*
 **/reports/*
 **/staticresources/*
-force-app/main/default/staticresources/*
 **/translations/*
 **/objecttranslations/*
 
