@@ -44,7 +44,7 @@
 **/dashboards/*
 **/installedPackages/*
 **/reports/*
-**/staticresources/*
+# **/staticresources/*
 **/translations/*
 **/objecttranslations/*
 
